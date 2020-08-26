@@ -1,24 +1,22 @@
 {
-    "name": "react-test",
-    "version": "1.0.0",
-    "description": "This is a directory to learn react and Git",
-    "main": "index.html",
-    "scripts": {
-        "start": "npm run lite",
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "lite": "lite-server"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/AhsanKhaan/React_coursera.git"
-    },
-    "author": "AhsanKhan",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/AhsanKhaan/React_coursera/issues"
-    },
-    "homepage": "https://github.com/AhsanKhaan/React_coursera#readme",
-    "devDependencies": {
-        "lite-server": "^2.5.4"
-    }
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is courseera project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhsanKhaan/React_coursera.git"
+  },
+  "author": "Ahsan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhsanKhaan/React_coursera/issues"
+  },
+  "homepage": "https://github.com/AhsanKhaan/React_coursera#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
